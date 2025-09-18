@@ -1,0 +1,113 @@
+   .dform{
+    text-align: center;
+    border-radius: 16px;
+    padding: 150px 50px 150px 50px;
+
+
+   }
+
+   #sign{
+    font-size: 20px;
+   }
+
+
+  .dform input{
+  width: 40%; /* make all inputs full width */
+  padding: 12px 40px;
+  padding-right: 60px; 
+  border: 1px solid #ccc;
+  font-size: 14px;
+  box-sizing: border-box;
+  
+        }
+
+.dform label {
+  text-align: left;    
+  width: 40%;          
+  margin: 10px auto 5px; /* auto centers the block itself, but keeps text left */
+   
+}
+
+
+.dform a{
+  text-decoration: none;
+}
+
+
+  .dform button,.btn-custom{
+      background: #22234d;
+      padding: 12px 45px 12px 40px;
+      color: #fff;
+      justify-content: center;
+      align-items: center;
+  }
+
+   .dform h4{
+    font-weight: bold;
+   }
+
+   .input-group-custom {
+  position: relative;
+
+  margin: 0 auto 20px; /* center horizontally */
+}
+
+
+   .fa-solid{
+    position: absolute;
+    padding: 18px;
+    min-width: 40px;
+    color: #ccc;;
+   }
+
+
+.eye{
+    position: absolute;
+    right:250px;
+    padding: 18px;
+    min-width: 40px;
+    color: #ccc;
+    cursor: pointer;
+
+}
+
+
+   #lock{
+    position: absolute;
+    color: #ccc;;
+   }
+
+
+     #show{
+        font-size: 12px;
+        color: red;
+        text-align: center;
+        margin: 10px auto 5px;
+      
+    }
+
+
+        #same{
+        font-size: 12px;
+        color: red;
+        text-align: center;
+    }
+
+
+
+.dform marquee{
+      display: block;
+      margin-top: 10px;
+      font-weight: bold;
+      color: #22234d;
+      font-size: 40px;
+}
+
+
+
+#page{
+  padding-top: 350px;
+}
+
+
+
